@@ -8,4 +8,3 @@ Hackistan is a tribe of pioneers on a New Land, building smart and sustainable s
 - Governance
 - Missions
 - Tools
-- 
